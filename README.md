@@ -30,3 +30,17 @@ email-address [here][self-invite-form] and you should get an invitation-link.
 
 [slack]: http://slack.com
 [self-invite-form]: https://web-hh-slackin.herokuapp.com/
+
+## Meetups
+
+* [HH.js](www.meetup.com/hamburg-js/) | [@HHjs](https://twitter.com/hhjs) - Full Stack JavaScript
+* [Decode HH](http://www.meetup.com/decode-hh/) | [@DecodeHH](https://twitter.com/decodehh)- Frontend
+* [node.HH](http://www.meetup.com/node-hh/) [@NodeHamburg](https://twitter.com/nodehamburg) - Node.js
+* [Hamburg-React](http://www.meetup.com/Hamburg-React-js-Meetup/) | [@ReactHH](https://twitter.com/reacthh) - React.js
+* [Couch](http://www.meetup.com/CouchDB-Meetup-Hamburg/) | [@HamburgCouchDB](https://twitter.com/HamburgCouchDB) - Offline First 
+
+## Useful Links
+
+* [@web-hh](https://twitter.com/web_hh) Twitter account for announcements
+* [Google Calender](https://www.google.com/calendar/embed?src=aDZva3RjcjFxOGRkMjhxYW5kcTY2azVqMHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) that tracks all related events
+
